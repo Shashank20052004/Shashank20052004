@@ -1,70 +1,62 @@
 <div align="center">
 
-# 🐍 SHASHANK KUMAR
-
-### `Python Full-Stack Developer`
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Python+%7C+FastAPI+%7C+Flask;SQL+%7C+REST+APIs+%7C+React;Building+clean%2C+useful+full-stack+projects;Learning+%E2%86%92+Building+%E2%86%92+Shipping" alt="Typing animation" />
+<img src="./assets/cosmic-hero.gif" width="100%" alt="Animated cosmic Python Full-Stack Developer banner">
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=120&section=header" width="100%"/>
+<a href="#about"><img src="https://img.shields.io/badge/ABOUT-0b1020?style=for-the-badge&labelColor=111827&color=2563eb"></a>
+<a href="#stack"><img src="https://img.shields.io/badge/STACK-0b1020?style=for-the-badge&labelColor=111827&color=7c3aed"></a>
+<a href="#projects"><img src="https://img.shields.io/badge/PROJECTS-0b1020?style=for-the-badge&labelColor=111827&color=ec4899"></a>
+<a href="#journey"><img src="https://img.shields.io/badge/JOURNEY-0b1020?style=for-the-badge&labelColor=111827&color=06b6d4"></a>
 
 </div>
 
-## ⚡ About Me
+<img src="./assets/wave-separator.gif" width="100%" alt="Animated neon wave">
 
-```python
-class Developer:
-    name = "Shashank Kumar"
-    role = "Python Full-Stack Developer"
-    focus = ["Backend", "REST APIs", "SQL", "Frontend"]
-    currently_learning = ["Python", "PostgreSQL", "JavaScript", "React"]
-    mindset = "Build → Break → Debug → Improve"
-```
+<a id="about"></a>
 
-I enjoy turning ideas into practical software — from backend APIs and databases to clean frontend experiences.
-
----
-
-## 🧩 Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,flask,html,css,js,react,postgresql,mysql,git,github,linux,docker&perline=7" />
-
-</div>
-
----
-
-## 🚀 What I'm Building
+## ◈ 01 / ABOUT
 
 <table>
 <tr>
-<td width="50%">
+<td width="58%" valign="top">
 
-### 🐍 Python Backend
-REST APIs, authentication, validation, databases and production-ready backend architecture.
+# Hey, I'm **Shashank** 👋
+
+I'm building my path as a **Python Full-Stack Developer**.
+
+I like the part of software where an idea becomes a real thing:
+
+`idea → backend → database → API → interface → deployment`
+
+Currently focused on:
+
+- 🐍 Core Python & problem solving
+- ⚡ FastAPI / Flask & REST APIs
+- 🗄️ SQL + PostgreSQL
+- 🌐 HTML / CSS / JavaScript
+- ⚛️ React
+- 🐙 Git & GitHub
+- 🐳 Docker
+- ☁️ AWS fundamentals
 
 </td>
-<td width="50%">
+<td width="42%" valign="top">
 
-### 🌐 Full Stack
-Connecting Python backends with modern HTML/CSS/JavaScript and React interfaces.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🗄️ Data
-SQL, PostgreSQL, database design, queries and data-driven applications.
-
-</td>
-<td width="50%">
-
-### ☁️ Deployment
-Git/GitHub, Docker and the fundamentals of deploying applications to the cloud.
+```text
+┌─────────────────────────────┐
+│  SYSTEM STATUS              │
+├─────────────────────────────┤
+│  PYTHON       ████████░  80%│
+│  BACKEND      ██████░░░  65%│
+│  SQL          ██████░░░  65%│
+│  FRONTEND     ████░░░░░  45%│
+│  CLOUD        ███░░░░░░  30%│
+│                             │
+│  MODE: BUILDING             │
+│  STATUS: ONLINE ●           │
+└─────────────────────────────┘
+```
 
 </td>
 </tr>
@@ -72,121 +64,184 @@ Git/GitHub, Docker and the fundamentals of deploying applications to the cloud.
 
 ---
 
-## 🎬 Featured Work
+<a id="stack"></a>
 
-> **A profile that grows with the projects I build.**
-
-### 🧠 Brain Stroke Detection System
-`Python` `Scikit-learn` `Pandas` `NumPy`
-
-Machine-learning project using supervised classification models and feature engineering.
-
-### 🔤 Optical Character Recognition Engine
-`Python` `TensorFlow` `OpenCV`
-
-CNN + RNN based OCR pipeline with CTC sequence prediction.
-
-### ⛓️ Blockchain Application
-`Solidity` `Ethereum` `Polygon` `Hardhat` `Ethers.js` `IPFS`
-
-Smart-contract and decentralized-application project.
-
----
-
-## 📈 GitHub Activity
+## ◈ 02 / STACK
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=github_dark" height="165"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,html,css,js,react,postgresql,mysql,git,github,linux,docker,aws&perline=7" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true" />
+`PYTHON` · `FASTAPI` · `FLASK` · `SQL` · `POSTGRESQL` · `JAVASCRIPT` · `REACT` · `GIT` · `DOCKER` · `AWS`
 
 </div>
 
 ---
 
-## 🐍 Contribution Garden
+<a id="projects"></a>
+
+## ◈ 03 / PROJECTS
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Brain Stroke Detection
+
+**ML / Python**
+
+Supervised-learning project using Logistic Regression, Random Forest and SVM with feature engineering and cross-validation.
+
+**`Python` `Pandas` `NumPy` `Scikit-learn`**
+
+</td>
+<td width="50%" valign="top">
+
+### 🔤 OCR Engine
+
+**Computer Vision / Deep Learning**
+
+CNN + RNN pipeline for printed and handwritten text recognition with CTC sequence prediction.
+
+**`Python` `TensorFlow` `OpenCV`**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⛓️ Web3 Application
+
+**Blockchain**
+
+Smart-contract application built around Ethereum / Polygon testnets with decentralized storage.
+
+**`Solidity` `Hardhat` `Ethers.js` `IPFS`**
+
+</td>
+<td width="50%" valign="top">
+
+### 🚧 Full-Stack Lab
+
+**In progress**
+
+A growing collection of small applications where I practice APIs, PostgreSQL, React, authentication, Docker and deployment.
+
+**`FastAPI` `PostgreSQL` `React` `Docker`**
+
+</td>
+</tr>
+</table>
+
+---
+
+<a id="journey"></a>
+
+## ◈ 04 / THE BUILD PATH
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
-
-</div>
-
----
-
-## 🧭 My Roadmap
 
 ```text
-Python
-  │
-  ├── Core Python
-  ├── OOP
-  ├── DSA
-  │
-  ▼
-SQL + PostgreSQL
-  │
-  ▼
-HTML + CSS + JavaScript
-  │
-  ▼
-REST APIs
-  │
-  ▼
-FastAPI / Flask
-  │
-  ▼
-React
-  │
-  ▼
-Docker + AWS Basics
-  │
-  ▼
-🚀 Python Full-Stack Developer
+                 ┌──────────────┐
+                 │   PYTHON 🐍  │
+                 └──────┬───────┘
+                        ↓
+              ┌──────────────────┐
+              │ SQL + POSTGRESQL │
+              └────────┬─────────┘
+                       ↓
+             ┌────────────────────┐
+             │ HTML CSS JAVASCRIPT│
+             └─────────┬──────────┘
+                       ↓
+                ┌────────────┐
+                │ REST APIs  │
+                └─────┬──────┘
+                      ↓
+             ┌─────────────────┐
+             │ FASTAPI / FLASK │
+             └────────┬────────┘
+                      ↓
+                ┌───────────┐
+                │   REACT   │
+                └─────┬─────┘
+                      ↓
+               ┌─────────────┐
+               │ DOCKER + AWS│
+               └──────┬──────┘
+                      ↓
+              ◉ SHIP REAL APPS
 ```
 
+</div>
+
 ---
 
-## 📚 Currently Learning
+## ◈ 05 / CURRENTLY BUILDING
 
 <div align="center">
 
-`🐍 Python`  `🗄️ PostgreSQL`  `🌐 JavaScript`  `⚛️ React`  
-`🔌 REST APIs`  `🐙 Git/GitHub`  `🐳 Docker`  `☁️ AWS`
+| 🧪 LAB | 🎯 TARGET |
+|:---|:---|
+| Python | Strong fundamentals + DSA |
+| Backend | REST APIs + FastAPI |
+| Database | PostgreSQL + SQL |
+| Frontend | JavaScript + React |
+| Engineering | Git + Docker |
+| Cloud | AWS fundamentals |
 
 </div>
 
 ---
 
-## 💬 Let's Connect
+## ◈ 06 / GITHUB SIGNAL
 
 <div align="center">
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0b1020&title_color=67e8f9&text_color=cbd5e1&icon_color=a78bfa" width="49%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0b1020&title_color=67e8f9&text_color=cbd5e1" width="42%">
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=0B1020&ring=67E8F9&fire=EC4899&currStreakLabel=A78BFA&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B" width="70%">
+
+</div>
+
+---
+
+## ◈ 07 / CONNECT
+
+<div align="center">
 
 <a href="mailto:shashank88880@outlook.com">
-<img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
+<img src="https://img.shields.io/badge/MAIL-111827?style=for-the-badge&logo=microsoftoutlook&logoColor=67e8f9&labelColor=0b1020&color=172554">
+</a>
+&nbsp;
+<a href="https://www.instagram.com/whoz.shn/">
+<img src="https://img.shields.io/badge/INSTAGRAM-111827?style=for-the-badge&logo=instagram&logoColor=f472b6&labelColor=0b1020&color=4c1d95">
+</a>
+&nbsp;
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0b1020&color=1e293b">
 </a>
 
-<a href="https://www.instagram.com/whoz.shn/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+<br><br>
+
+### `✦ BUILD SOMETHING WORTH STARING AT ✦`
 
 </div>
+
+<img src="./assets/wave-separator.gif" width="100%" alt="Animated neon wave">
+
+<div align="center">
+
+`01`  `02`  `03`  `04`  `05`  `06`  `07`
 
 <br>
 
-<div align="center">
-
-### `⚡ Learn. Build. Ship. Repeat.`
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:161b22,100:0d1117&height=100&section=footer" width="100%"/>
+**PYTHON → FULL STACK → SHIP**
 
 </div>
